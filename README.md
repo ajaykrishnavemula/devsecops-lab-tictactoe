@@ -86,7 +86,7 @@ kubernetes/
     └── deployment.yaml
     └── ingress.yml
     └── service.yml
-
+```
 
 ## ⚖️ Game Logic Summary
 
