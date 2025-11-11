@@ -1,4 +1,4 @@
-# End-to-End DevSecOps Implementation : Tic-Tac-Toe Game🎮
+# End-to-End DevSecOps Implementation : Tic-Tac-Toe🎮
 
 > A complete **DevSecOps pipeline** integrating **GitHub Actions, Trivy, Docker, Kubernetes, and Argo CD** — built around a simple React Tic Tac Toe app to demonstrate *secure CI/CD automation from code to deployment*.  
 The core idea: **every commit → test → analyze → build → secure → deploy automatically!**
